@@ -1,0 +1,13 @@
+*.jou
+*.log
+*.pb
+*.wdb
+*.str
+*.os
+.Xil/
+*.runs/
+*.sim/
+*.elf
+*.hex
+*.dump
+software/output.map
