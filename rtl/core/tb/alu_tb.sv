@@ -1,3 +1,5 @@
+// the tb is AI generated
+
 `timescale 1ns / 1ps
 
 module alu_tb;
