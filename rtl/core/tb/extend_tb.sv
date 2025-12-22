@@ -1,3 +1,5 @@
+// this tb is ai generated
+
 `timescale 1ns / 1ps
 
 module tb_extend_unit;

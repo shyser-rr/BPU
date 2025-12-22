@@ -4,11 +4,11 @@ typedef enum logic [3:0] {
     ALU_SUB,        // 0001
     ALU_AND,        // 0010
     ALU_OR,         // 011
-    ALU_XOR,        // 100
-    ALU_SLL,        // 0101 Shift LEft
+    ALU_SLL,        // 0100 Shift LEft
+    ALU_SLT,        // 1001 Signed Less Than
+    ALU_XOR,        // 1010
     ALU_SRL,        // 0110 Shift Right
     ALU_SRS,        // 111 Shift Right SIgned
-    ALU_SLT,        // 1000 Signed Less Than
     ALU_USLT        // 1001 Unsigned Less than
 } alu_ctrl_codes;
 
